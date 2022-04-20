@@ -21,7 +21,7 @@ Podem existir várias formas de se decompor um problema, vai depender da situaç
 
 #### 2. Reconhecimento de padrões
 
-Para reconhecer padrões, prestar atenção nas similaridades e nas diferenças afim de obter resolução para problemas diferentes. Generaliza e economiza tempo.
+Para reconhecer padrões, prestar atenção nas **similaridades** e nas **diferenças** afim de obter resolução para problemas diferentes. Generaliza e economiza tempo.
 
 #### 3. Abstração
 
@@ -31,4 +31,4 @@ Transformar algo físico em algo abstrato por meio dos pontos essenciais.
 
 #### 4. Algoritmo
  
- Para se fazer um algoritmo é necessário fazer uma análise do problema seguindo os passos mostrados anteriormente afim de conseguir fazer o passo a passo do que deverá ser feito para solucionar o problema. Apois isso, o algoritmo é codificado de acordo com a linguagem da programação escolhida.
+ Para se fazer um algoritmo é necessário fazer uma **análise do problema** seguindo os passos mostrados anteriormente afim de conseguir fazer o passo a passo do que deverá ser feito para solucionar o problema. Apois isso, o algoritmo é **codificado** de acordo com a linguagem da programação escolhida.
